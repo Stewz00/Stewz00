@@ -1,10 +1,10 @@
 # Markus Stitka
 
-Software engineer and co-founder of [itemary](https://itemary.de).
+Software engineer and technical co-founder of [itemary](https://itemary.de).
 
-Working mostly across TypeScript, Go, mobile, backend and cloud systems.
+Working across TypeScript, Go, mobile, backend and cloud systems.
 I am particularly interested in reliable backend software and products
-that solve useful real-world problems.
+that solve real-world problems.
 
 Most of my recent production work is maintained in private repositories.
 
