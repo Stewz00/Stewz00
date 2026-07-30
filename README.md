@@ -2,7 +2,7 @@
 
 Software engineer and technical co-founder of [itemary](https://itemary.de).
 
-Working across TypeScript, Go, mobile, backend and cloud systems.
+Currently working across TypeScript, Go, mobile, backend and cloud systems.
 I am particularly interested in reliable backend software and products
 that solve real-world problems.
 
