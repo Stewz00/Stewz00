@@ -8,4 +8,12 @@ that solve real-world problems.
 
 Most of my recent production work is maintained in private repositories.
 
+## Selected project
+
+[Wattfeder](https://github.com/Stewz00/Wattfeder) 
+
+A deterministic Go simulator for household energy flows and battery control. It models photovoltaic generation, electricity demand, prices and battery decisions over a reproducible 24-hour timeline.
+
+The repository includes a runnable demo, automated tests, architecture and domain documentation, explicit model limitations, and a transactional persistence design.
+
 [LinkedIn](https://www.linkedin.com/in/markus-stitka-530892237/)
