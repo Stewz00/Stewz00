@@ -12,8 +12,10 @@ Most of my recent production work is maintained in private repositories.
 
 [Wattfeder](https://github.com/Stewz00/Wattfeder) 
 
-A deterministic Go simulator for household energy flows and battery control. It models photovoltaic generation, electricity demand, prices and battery decisions over a reproducible 24-hour timeline.
+A Go edge agent for a household energy system. It reads solar production, load, battery charge and electricity price, and decides every interval whether to charge, discharge or idle the battery.
 
-The repository includes a runnable demo, automated tests, architecture and domain documentation, explicit model limitations, and a transactional persistence design.
+Telemetry in the real world arrives twice, arrives late, arrives broken, or does not arrive at all. Wattfeder gives every observation one explicit outcome, and one bad observation never stops the ones after it. State is stored transactionally in SQLite and survives restart. The running agent exposes health endpoints, Prometheus metrics and OpenTelemetry traces.
+
+Two commands run the whole thing: `make demo` and `make demo-faults`.
 
 [LinkedIn](https://www.linkedin.com/in/markus-stitka-530892237/)
