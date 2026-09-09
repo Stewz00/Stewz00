@@ -1,16 +1,16 @@
 # Markus Stitka
 
-Software engineer and technical co-founder of [itemary](https://itemary.de).
+Software engineer focused on backend systems, reliability and architecture.
 
-Currently working across TypeScript, Go, mobile, backend and cloud systems.
-I am particularly interested in reliable backend software and products
-that solve real-world problems.
+My experience spans TypeScript, Go, mobile, backend and cloud systems.
+I am particularly interested in reliable software and products that solve
+real-world problems.
 
 Most of my recent production work is maintained in private repositories.
 
 ## Selected project
 
-[Wattfeder](https://github.com/Stewz00/Wattfeder) 
+[Wattfeder](https://github.com/Stewz00/Wattfeder)
 
 A Go edge agent for a household energy system. It reads solar production, load, battery charge and electricity price, and decides every interval whether to charge, discharge or idle the battery.
 
@@ -18,4 +18,4 @@ Telemetry in the real world arrives twice, arrives late, arrives broken, or does
 
 Two commands run the whole thing: `make demo` and `make demo-faults`.
 
-[LinkedIn](https://www.linkedin.com/in/markus-stitka-530892237/)
+[LinkedIn](https://www.linkedin.com/in/markus-stitka/)
